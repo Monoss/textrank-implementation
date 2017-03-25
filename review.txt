@@ -1,0 +1,10 @@
+﻿I am sorry that I could not say this paper is suitable for publishing at BBR. 
+This paper does not have some components a journal should have, except literature review : I could not find 'Research problem', 'Research question', 'Variable and Hypothesis', ‘Methodologies', 'Research Model', and also, 'Statistical approach' etc. You may need to provide some of components mentioned above. 
+About the purpose of this paper: I could not find the reason why the author want to draw a map of phenomena that occur in students who are taking classes entrepreneurship. The authors may provide research problem, objective, and insight and plan to the problem-solving effort.
+Even though this paper has literature reviews on variables, but I could not find 'operational definition' on each variables, and theories to support each variables and measurement. Author may describe 'operational definition' on each variables and explain how to measure them. 
+And also, the author may provide a questionnaire with references to retain objectivity, and also to confirm and check how to measure variables.    
+Because this paper employed only simple average-value (MEAN) from specific group to draw a map of phenomena, there are two critical errors for the research.
+In fact, using only simple average-value (MEAN) is not enough to estimate a characteristics of parameter without any statistics.  
+There is 'the error of generalization', because the authors collected some data from only one specific group (no other comparative groups) and used only simple MEAN from the group to explain and generalize some phenomena. So, the results (the conclusion generalized) must be contaminated by some biased sample.  
+It is impossible to estimate some characteristics of social activities and to measure some phenomena, using only average-value (MEAN) from a specific group. Because a sample is not population, and MEAN from a sample does not represent/estimate a parameter without any standard deviation and variance.  
+The author should do empirical approach to estimate a map of phenomena, using statistics such as mean, variance, standard deviation of a sample (specific group), etc.
